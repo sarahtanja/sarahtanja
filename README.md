@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress.
+You can check out what I'm currently working on [here](https://sarahtanja.github.io/lab-book/) in my open-lab notebook.
 
 <!--
 **sarahtanja/sarahtanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
