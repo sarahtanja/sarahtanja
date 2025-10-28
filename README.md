@@ -6,11 +6,6 @@ You can check out what I'm currently working on [here](https://sarahtanja.github
 ### Coral Embryo Art 🪸
 
 Here are some beautiful microscopy images from my coral embryo research:
-
-<p align="center">
-  <img src="images/art/9C14_down.jpg" alt="Coral embryo - down view" width="600"/>
-</p>
-
 <p align="center">
   <img src="images/art/9C14_horizon.jpg" alt="Coral embryo - horizon view" width="600"/>
 </p>
