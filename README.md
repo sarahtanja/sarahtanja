@@ -10,10 +10,6 @@ Here are some beautiful microscopy images from my coral embryo research:
   <img src="images/art/9C14_horizon.jpg" alt="Coral embryo - horizon view" width="600"/>
 </p>
 
-<p align="center">
-  <img src="images/art/9C14_tile.jpg" alt="Coral embryo - tile view" width="600"/>
-</p>
-
 <!--
 **sarahtanja/sarahtanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
